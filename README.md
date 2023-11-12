@@ -1,4 +1,4 @@
-# Agriculture Yield Prediction App
+# Predict Crop Yield Flutter APP
 
 This Flutter app, integrated with a Flask backend, predicts agriculture yield based on input parameters such as area, item, year, average rainfall, pesticides usage, and average temperature. The machine learning model, implemented using a Random Forest algorithm, is trained on historical agriculture data.
 
@@ -15,6 +15,6 @@ This Flutter app, integrated with a Flask backend, predicts agriculture yield ba
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/agriculture_yield_prediction.git
+   git clone https://github.com/hasibullah1811/predict-crop-yield-flutter-app
    cd agriculture_yield_prediction
    ```
